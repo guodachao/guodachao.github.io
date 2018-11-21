@@ -18,7 +18,7 @@ favicon: favicon.png
 repository: guodachao/guodachao.github.io
 github_url: https://github.com/guodachao
 cnblog_url: http://www.cnblogs.com/ityouknow
-url: https://guodachao.github.io
+url: http://guodachao.github.io
 enforce_ssl: ityouknow.com
 
 ## Gem

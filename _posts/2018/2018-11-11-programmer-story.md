@@ -106,4 +106,4 @@ excerpt: 愿这些故事伴随你我一路相随。
 
 这里只是选取了十位程序员朋友的留言，其实总共有190位朋友留言，公号文章精选留言只能展示100条，大家如想查看这些内容，可以扫描下方二维码在公号内回复：送书，即可。
 
-![](http://www.itmind.net/assets/images/2018/life/flyever.jpg)
+![](/assets/images/2018/life/flyever.jpg)

@@ -173,13 +173,13 @@ gitment:
     owner: guodachao
     repo: blog-comments
     oauth:
-        client_id: 61bfc53d957e74e78f8f
-        client_secret: 36fe97463904c66d11e8b2d2b318257e634b7412
+        client_id: 289d7fc97497150064da
+        client_secret: ea026154b814e097cfe6853b7c0511f175a39606
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: guodachao
     repo: blog-comments
-    clientID: 61bfc53d957e74e78f8f
-    clientSecret: 36fe97463904c66d11e8b2d2b318257e634b7412
+    clientID: 289d7fc97497150064da
+    clientSecret: ea026154b814e097cfe6853b7c0511f175a39606
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true

@@ -57,7 +57,6 @@ ruby dk.rb review
 ruby dk.rb install
 
 
-
 ### 3，安装jekyll 
 
 先查看你的gem是否安装完毕：

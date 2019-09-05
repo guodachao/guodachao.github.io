@@ -5,5 +5,6 @@ category: other
 tags: [other]
 no-post-nav: true
 excerpt: 记录Win7安装Jekyll的过程
+comments: true
 keywords: blog, Jekyll
 ---

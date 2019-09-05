@@ -167,7 +167,7 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: blog-1kxotf6hzo
+    shortname: blog-1kxotf6hzo
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: guodachao

@@ -3,7 +3,6 @@ layout: post
 title: 安装Jekyll的辛酸路！
 category: other
 tags: [other]
-no-post-nav: true
 excerpt: 记录Win7安装Jekyll的过程
 keywords: Ruby,Jekyll
 ---
@@ -14,7 +13,7 @@ jekyll是一个基于ruby的博客系统，对于喜欢折腾的我决定来试�
 
 ### 1，安装Ruby 
 
-下载安装exe，地址：[http://rubyinstaller.org/downloads/](https://link.jianshu.com/?t=http://rubyinstaller.org/downloads/)
+下载安装exe，地址：[http://rubyinstaller.org/downloads/](http://rubyinstaller.org/downloads/)
 
 根据自己的机型选择对应的安装包(**划重点，因后续有需要安装不同的gem，我发现好多因为ruby版本问题装不了，所以在这推荐使用2,2,4版本的**)
 

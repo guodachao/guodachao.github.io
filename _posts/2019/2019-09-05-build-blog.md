@@ -18,7 +18,7 @@ jekyll是一个基于ruby的博客系统，对于喜欢折腾的我决定来试�
 
 根据自己的机型选择对应的安装包(**划重点，因后续有需要安装不同的gem，我发现好多因为ruby版本问题装不了，所以在这推荐使用2,2,4版本的**)
 
-![img](https://upload-images.jianshu.io/upload_images/1195023-a6c530243f43e78f.png?imageMogr2/auto-orient/strip&#124;&#124;imageView2/2/w/1200/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/1195023-a6c530243f43e78f.png?imageMogr2/auto-orient/strip&#124;imageView2/2/w/1200/format/webp)
 
 安装的注意点：
 

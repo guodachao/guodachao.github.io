@@ -149,12 +149,12 @@ mysql实时同步到mongodb，我们使用的是[tungsten-relicator](https://git
 [favorites-web](https://github.com/cloudfavorites/favorites-web)
 
  
-![favorites_chrome](http://www.ityouknow.com/assets/images/2016/favorites_home.png)  
+![favorites_chrome]({{ site.url }}/assets/images/2016/favorites_home.png)  
 
 
 
 -------------
 
 **作者：纯洁的微笑**  
-**出处：[www.ityouknow.com](http://www.ityouknow.com)**   
+**出处：[www.ityouknow.com]({{ site.url }})**   
 **版权所有，欢迎保留原文链接进行转载：)** 

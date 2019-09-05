@@ -191,7 +191,7 @@ Sun JDK监控和故障处理命令有jps jstat jmap jhat jstack jinfo
 - jstack，用于生成java虚拟机当前时刻的线程快照。
 - jinfo，JVM Configuration info 这个命令作用是实时查看和调整虚拟机运行参数。
 
->  *详细的命令使用参考这里[jvm系列(四):jvm调优-命令篇](http://www.ityouknow.com/java/2016/01/01/jvm%E8%B0%83%E4%BC%98-%E5%91%BD%E4%BB%A4%E7%AF%87.html)*
+>  *详细的命令使用参考这里[jvm系列(四):jvm调优-命令篇]({{ site.url }}/java/2016/01/01/jvm%E8%B0%83%E4%BC%98-%E5%91%BD%E4%BB%A4%E7%AF%87.html)*
 
 **调优工具**  
 
@@ -202,10 +202,10 @@ Sun JDK监控和故障处理命令有jps jstat jmap jhat jstack jinfo
 - MAT，Memory Analyzer Tool，一个基于Eclipse的内存分析工具，是一个快速、功能丰富的Java heap分析工具，它可以帮助我们查找内存泄漏和减少内存消耗  
 - GChisto，一款专业分析gc日志的工具  
 
->  *工具使用参考 [jvm系列(七):jvm调优-工具篇](http://www.ityouknow.com/java/2017/02/22/jvm-tool.html)*
+>  *工具使用参考 [jvm系列(七):jvm调优-工具篇]({{ site.url }}/java/2017/02/22/jvm-tool.html)*
 
 -------------
 
 **作者：纯洁的微笑**  
-**出处：[http://www.ityouknow.com/](http://www.ityouknow.com/java/2017/03/01/jvm-overview.html)**      
+**出处：[{{ site.url }}/]({{ site.url }}/java/2017/03/01/jvm-overview.html)**      
 **版权归作者所有，转载请注明出处** 

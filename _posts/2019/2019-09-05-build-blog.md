@@ -18,13 +18,13 @@ jekyll是一个基于ruby的博客系统，对于喜欢折腾的我决定来试�
 
 根据自己的机型选择对应的安装包(**划重点，因后续有需要安装不同的gem，我发现好多因为ruby版本问题装不了，所以在这推荐使用2,2,4版本的**)
 
-![img](https://upload-images.jianshu.io/upload_images/1195023-a6c530243f43e78f.png?imageMogr2/auto-orient/strip&#124&#124imageView2/2/w/1200/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/1195023-a6c530243f43e78f.png?imageMogr2/auto-orient/strip&#124;&#124;imageView2/2/w/1200/format/webp)
 
 安装的注意点：
 
 自动帮你配置环境变量，要安装在根目录
 
-![img](https://upload-images.jianshu.io/upload_images/1195023-e5a69bdde0973466.png?imageMogr2/auto-orient/strip&#124imageView2/2/w/513/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/1195023-e5a69bdde0973466.png?imageMogr2/auto-orient/strip&#124;imageView2/2/w/513/format/webp)
 
 测试是否安装完成：
 
@@ -36,7 +36,7 @@ ruby 2.3.0p0 (2015-12-25 revision 53290) [x64-mingw32]
 
 ### 2，安装Devkit
 
-![img](https://upload-images.jianshu.io/upload_images/1195023-1b29696831414be5.png?imageMogr2/auto-orient/strip&#124imageView2/2/w/1200/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/1195023-1b29696831414be5.png?imageMogr2/auto-orient/strip&#124;imageView2/2/w/1200/format/webp)
 
 1），运行安装包并解压缩至某文件夹，如 C:\DevKit
 
@@ -67,7 +67,7 @@ gem install jekyll
 
 测试是否安装完毕：
 
-![img](https://upload-images.jianshu.io/upload_images/1195023-d6e235354766725f.png?imageMogr2/auto-orient/strip&#124imageView2/2/w/594/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/1195023-d6e235354766725f.png?imageMogr2/auto-orient/strip&#124;imageView2/2/w/594/format/webp)
 
 新建jekyll 项目
 
@@ -81,11 +81,11 @@ jekyll s  / jekyll serve
 
 如果报错，按照提示，安装相关的gem
 
-![img](https://upload-images.jianshu.io/upload_images/1195023-b36b8899925c4601.png?imageMogr2/auto-orient/strip&#124imageView2/2/w/571/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/1195023-b36b8899925c4601.png?imageMogr2/auto-orient/strip&#124;imageView2/2/w/571/format/webp)
 
 最终成功运行！
 
-![img](https://upload-images.jianshu.io/upload_images/1195023-9bb2e8cc102e932e.png?imageMogr2/auto-orient/strip&#124imageView2/2/w/569/format/webp)
+![img](https://upload-images.jianshu.io/upload_images/1195023-9bb2e8cc102e932e.png?imageMogr2/auto-orient/strip&#124;imageView2/2/w/569/format/webp)
 
 最终通过本地4000端口访问
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 不忘初心 方得始终
+no-post-nav: true
 category: life
 tags: [life]
 excerpt: 间歇性努力，持续性混吃等死
